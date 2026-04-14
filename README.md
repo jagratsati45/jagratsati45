@@ -71,12 +71,14 @@
 <a href="#"><img src="https://skillicons.dev/icons?i=vue" width="40" height="40"/></a>
 </p>
 
+<!-- ✅ FIXED STATS SECTION -->
+
 <p>
-<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jagratsati45&layout=compact&theme=tokyonight&hide_border=true" />
+<img align="left" src="https://stats.vercel.app/api/top-langs/?username=jagratsati45&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p>
-<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jagratsati45&show_icons=true&theme=tokyonight&hide_border=true" />
+<img align="center" src="https://stats.vercel.app/api?username=jagratsati45&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p>
