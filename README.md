@@ -40,34 +40,33 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html" width="80"/>
-  <img src="https://skillicons.dev/icons?i=css" width="80"/>
-  <img src="https://skillicons.dev/icons?i=js" width="80"/>
-  <img src="https://skillicons.dev/icons?i=ts" width="80"/>
-  <img src="https://skillicons.dev/icons?i=react" width="80"/>
-  <img src="https://skillicons.dev/icons?i=vue" width="80"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="80"/>
-  <img src="https://skillicons.dev/icons?i=sass" width="80"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" width="80"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="80"/>
-  <img src="https://skillicons.dev/icons?i=express" width="80"/>
-</p>
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 12px; max-width: 720px;">
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" width="80"/>
-  <img src="https://skillicons.dev/icons?i=mysql" width="80"/>
-  <img src="https://skillicons.dev/icons?i=java" width="80"/>
-  <img src="https://skillicons.dev/icons?i=cpp" width="80"/>
-  <img src="https://skillicons.dev/icons?i=c" width="80"/>
-  <img src="https://skillicons.dev/icons?i=python" width="80"/>
-  <img src="https://skillicons.dev/icons?i=php" width="80"/>
-  <img src="https://skillicons.dev/icons?i=laravel" width="80"/>
-  <img src="https://skillicons.dev/icons?i=git" width="80"/>
-  <img src="https://skillicons.dev/icons?i=github" width="80"/>
-  <img src="https://skillicons.dev/icons?i=figma" width="80"/>
-</p>
-<h3 align="left">GitHub Streak:</h3>
+  <img src="https://skillicons.dev/icons?i=html" width="70"/>
+  <img src="https://skillicons.dev/icons?i=css" width="70"/>
+  <img src="https://skillicons.dev/icons?i=js" width="70"/>
+  <img src="https://skillicons.dev/icons?i=ts" width="70"/>
+  <img src="https://skillicons.dev/icons?i=react" width="70"/>
+  <img src="https://skillicons.dev/icons?i=vue" width="70"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="70"/>
+  <img src="https://skillicons.dev/icons?i=sass" width="70"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="70"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="70"/>
+  <img src="https://skillicons.dev/icons?i=express" width="70"/>
+
+  <img src="https://skillicons.dev/icons?i=mongodb" width="70"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="70"/>
+  <img src="https://skillicons.dev/icons?i=java" width="70"/>
+  <img src="https://skillicons.dev/icons?i=cpp" width="70"/>
+  <img src="https://skillicons.dev/icons?i=c" width="70"/>
+  <img src="https://skillicons.dev/icons?i=python" width="70"/>
+  <img src="https://skillicons.dev/icons?i=php" width="70"/>
+  <img src="https://skillicons.dev/icons?i=laravel" width="70"/>
+  <img src="https://skillicons.dev/icons?i=git" width="70"/>
+  <img src="https://skillicons.dev/icons?i=github" width="70"/>
+  <img src="https://skillicons.dev/icons?i=figma" width="70"/>
+
+</div><h3 align="left">GitHub Streak:</h3>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jagratsati45&theme=tokyonight&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="850"/>
