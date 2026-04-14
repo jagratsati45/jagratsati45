@@ -38,9 +38,9 @@
 <a href="https://twitter.com/jagratsati"><img src="https://skillicons.dev/icons?i=twitter" width="100" height="90"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<<h3 align="left">Languages and Tools:</h3>
 
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 12px; max-width: 720px;">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
 
   <img src="https://skillicons.dev/icons?i=html" width="70"/>
   <img src="https://skillicons.dev/icons?i=css" width="70"/>
@@ -66,7 +66,9 @@
   <img src="https://skillicons.dev/icons?i=github" width="70"/>
   <img src="https://skillicons.dev/icons?i=figma" width="70"/>
 
-</div><h3 align="left">GitHub Streak:</h3>
+</div>
+
+<h3 align="left">GitHub Streak:</h3>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jagratsati45&theme=tokyonight&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="850"/>
