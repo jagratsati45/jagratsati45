@@ -38,9 +38,15 @@
 <a href="https://twitter.com/jagratsati"><img src="https://skillicons.dev/icons?i=twitter" width="100" height="90"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<<h3 align="left">Languages and Tools:</h3>
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
+<div align="center" style="
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(70px, 1fr));
+  gap: 14px;
+  max-width: 900px;
+  margin: auto;
+">
 
   <img src="https://skillicons.dev/icons?i=html" width="70"/>
   <img src="https://skillicons.dev/icons?i=css" width="70"/>
