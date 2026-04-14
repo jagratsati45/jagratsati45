@@ -38,7 +38,7 @@
 <a href="https://twitter.com/jagratsati"><img src="https://skillicons.dev/icons?i=twitter" width="100" height="90"/></a>
 </p>
 
-<<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
 
