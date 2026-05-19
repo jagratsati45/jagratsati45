@@ -73,8 +73,19 @@
   <img src="https://skillicons.dev/icons?i=figma" width="75"/>
 
 </div>
-<h3 align="left">GitHub Streak:</h3>
+<h3 align="left">🔥 GitHub Streak:</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jagratsati45&theme=tokyonight&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="850"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=jagratsati45&theme=tokyonight&hide_border=true&border_radius=10&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" width="850"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jagratsati45&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagratsati45&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" width="420"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jagratsati45&theme=tokyo-night&hide_border=true&area=true&radius=10" alt="Contribution Graph" width="850"/>
 </p>
