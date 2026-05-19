@@ -73,8 +73,37 @@
   <img src="https://skillicons.dev/icons?i=figma" width="75"/>
 
 </div>
-<h3 align="left">GitHub Streak:</h3>
+<h3 align="left">🔥 GitHub Streak:</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jagratsati45&theme=tokyonight&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="850"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=jagratsati45&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" max-width="850"/>
+  </a>
 </p>
+
+<div align="center">
+  <picture>
+    <source media="(max-width: 768px)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jagratsati45&theme=tokyonight"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jagratsati45&theme=tokyonight" alt="GitHub Stats" width="48%"/>
+  </picture>
+  <picture>
+    <source media="(max-width: 768px)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jagratsati45&theme=tokyonight"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jagratsati45&theme=tokyonight" alt="Top Languages" width="48%"/>
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(max-width: 768px)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jagratsati45&theme=tokyonight"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jagratsati45&theme=tokyonight" alt="Repos Per Language" width="48%"/>
+  </picture>
+  <picture>
+    <source media="(max-width: 768px)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jagratsati45&theme=tokyonight&utcOffset=5.5"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jagratsati45&theme=tokyonight&utcOffset=5.5" alt="Productive Time" width="48%"/>
+  </picture>
+</div>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jagratsati45&theme=tokyonight" alt="Contribution Graph" width="100%"/>
+</p>
+
